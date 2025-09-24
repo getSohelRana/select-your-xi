@@ -1,0 +1,122 @@
+[
+  {
+    "player-image": "https://i.ibb.co.com/Cjfb8xx/Shakib-Al-Hasan.jpg",
+    "player-name": "Shakib Al Hasan",
+    "Player-country": "Bangladesh",
+    "player-rating": 95,
+    "bating-style": "Left-handed Bat",
+    "bowling-style": "Left-arm orthodox",
+    "allRounder": true,
+    "price": 750000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/chDGFCCS/Chris-Gayle.jpg",
+    "player-name": "Chris Gayle",
+    "Player-country": "West Indies",
+    "player-rating": 90,
+    "bating-style": "Left-handed Bat",
+    "bowling-style": "Right-arm offbreak",
+    "allRounder": true,
+    "price": 600000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/9m4MtZYM/Rashid-Khan.jpg",
+    "player-name": "Rashid Khan",
+    "Player-country": "Afghanistan",
+    "player-rating": 93,
+    "bating-style": "Right-handed Bat",
+    "bowling-style": "Right-arm legbreak",
+    "allRounder": true,
+    "price": 800000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/prX5MbR1/Andre-Russell.jpg",
+    "player-name": "Andre Russell",
+    "Player-country": "West Indies",
+    "player-rating": 92,
+    "bating-style": "Right-handed Bat",
+    "bowling-style": "Right-arm fast",
+    "allRounder": true,
+    "price": 700000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/yFRJTnmj/Tamim-Iqbal.jpg",
+    "player-name": "Tamim Iqbal",
+    "Player-country": "Bangladesh",
+    "player-rating": 88,
+    "bating-style": "Left-handed Bat",
+    "bowling-style": null,
+    "allRounder" : false,
+    "price": 550000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/C38hY9TD/David-Warner.jpg",
+    "player-name": "David Warner",
+    "Player-country": "Australia",
+    "player-rating": 94,
+    "bating-style": "Left-handed Bat",
+    "bowling-style": "Right-arm medium",
+    "allRounder" : true,
+    "price": 850000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/8nrkWvGF/Keiron-Pollard.jpg",
+    "player-name": "Keiron Pollard",
+    "Player-country": "West Indies",
+    "player-rating": 87,
+    "bating-style": "Right-handed Bat",
+    "bowling-style": "Right-arm medium-fast",
+    "allRounder": true,
+    "price": 580000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/Y419Qfrd/Mohammad-Amir.jpg",
+    "player-name": "Mohammad Amir",
+    "Player-country": "Pakistan",
+    "player-rating": 85,
+    "bating-style": "Left-handed Bat",
+    "bowling-style": "Left-arm fast-medium",
+    "allRounder": false,
+    "price": 520000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/ccMwgzLf/Sunil-Narine.jpg",
+    "player-name": "Sunil Narine",
+    "Player-country": "West Indies",
+    "player-rating": 91,
+    "bating-style": "Left-handed Bat",
+    "bowling-style": "Right-arm offbreak",
+    "allRounder": true,
+    "price": 650000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/vvg6Cktw/AB-de-Villiers.jpg",
+    "player-name": "AB de Villiers",
+    "Player-country": "South Africa",
+    "player-rating": 93,
+    "bating-style": "Right-handed Bat",
+    "bowling-style": "Right-arm medium",
+    "allRounder": true,
+    "price": 780000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/N2PKLTpD/Mushfiqur-Rahim.jpg",
+    "player-name": "Mushfiqur Rahim",
+    "Player-country": "Bangladesh",
+    "player-rating": 86,
+    "bating-style": "Right-handed Bat",
+    "bowling-style": null,
+    "allRounder": false,
+    "price": 500000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/ZzWfX5BL/Liton-Das.webp",
+    "player-name": "Liton Das",
+    "Player-country": "Bangladesh",
+    "player-rating": 84,
+    "bating-style": "Right-handed Bat",
+    "bowling-style": null,
+    "allRounder": false,
+    "price": 480000
+  }
+]
